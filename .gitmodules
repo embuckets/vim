@@ -1,0 +1,12 @@
+[submodule "bundle/awesome-vim-schemes"]
+	path = bundle/awesome-vim-schemes
+	url = https://github.com/rafi/awesome-vim-colorschemes.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
